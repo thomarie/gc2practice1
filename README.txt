@@ -2,6 +2,7 @@
 Practice area for gc2 students.
 Please contribute by listing your name below:
 
+00. <first> <last>
 01. 
 02. 
 03. 
